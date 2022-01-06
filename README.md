@@ -37,7 +37,7 @@ Understanding the syntax of Kotlin in addition to creating the functionality and
 
 ## License
 
-    Copyright [2022] [name of copyright owner]
+    Copyright [2022] [Dylan Boyza]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
